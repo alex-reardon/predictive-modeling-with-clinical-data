@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 
-This project demonstrates a **multiple linear regression analysis** to predict **Prostate-Specific Antigen (PSA)** levels in men with prostate cancer. PSA is a key biomarker used in diagnosis and monitoring of prostate cancer. The dataset is mock clinical data designed to resemble typical findings in the literature, with an R² target of ~0.8.
+This project demonstrates a **multiple linear regression analysis** to predict **Prostate-Specific Antigen (PSA)** levels in men with prostate cancer. PSA is a key biomarker used in diagnosis and monitoring of prostate cancer. The dataset is mock clinical data designed to resemble typical findings in the literature.
 
 The analysis explores how PSA is associated with tumor burden, demographic variables, and diagnostic features.
 
