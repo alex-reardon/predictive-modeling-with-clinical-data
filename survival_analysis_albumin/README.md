@@ -60,7 +60,7 @@ Two CSV files:
 - **Kaplan-Meier curves** show similar survival probabilities for both albumin groups.
 - **Log-rank test** shows **no statistically significant difference** between groups.
 - **Cox model**: Albumin level was **not a significant predictor** of survival time.
-- **Logistic regression**: Being in the "Low albumin" group **decreased log-odds** of 1-year survival (coef = -0.51). Model accuracy ≈ **78%**.
+- **Logistic regression**: Being in the "Low albumin" group **decreased log-odds** of 1-year survival (coef = -0.51).
 
 ---
 
