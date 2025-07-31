@@ -85,7 +85,7 @@ Two CSV files:
 ## 🛠️ Technologies
 
 - Python 3, Jupyter Notebook  
-- Libraries: `pandas`, `matplotlib`, `seaborn`, `lifelines`, `scikit-learn`, `patsy`
+- Libraries: `pandas`, `matplotlib`, `lifelines`, `scikit-learn`, `patsy`
 
 ---
 
@@ -93,4 +93,4 @@ Two CSV files:
 
 1. Install dependencies:
    ```bash
-   pip install pandas matplotlib seaborn lifelines scikit-learn patsy
+   pip install pandas matplotlib lifelines scikit-learn patsy
