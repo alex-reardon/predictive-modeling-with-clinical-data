@@ -1,8 +1,3 @@
----
-title: "Academic Stress Prediction"
-output: github_document
----
-
 # Academic Stress Prediction
 
 This project analyzes survey data on academic stress among students and builds predictive models to estimate the **Academic Stress Index** based on various personal, environmental, and behavioral factors.
